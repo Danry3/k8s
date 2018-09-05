@@ -1,2 +1,1 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.11.1
-MAINTAINER danry
+FROM gcr.io/google_containers/k8s-apiserver-amd64:v1.11.1
