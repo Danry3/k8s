@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/metrics-server/metrics-server:v2.7.0
+FROM registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.7.0
